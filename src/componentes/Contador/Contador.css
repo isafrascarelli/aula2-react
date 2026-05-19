@@ -1,0 +1,10 @@
+.titulo-menor{
+    font-size: 26px;
+}
+
+.btn-incrementar{
+    margin: 10px;
+    padding: 10px;
+    color: blue;
+    font-weight: bold;
+}
