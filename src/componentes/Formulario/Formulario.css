@@ -1,0 +1,27 @@
+.input-container{
+    display: flex;
+    flex-direction: column;
+    font-family: monospace;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.input-container label{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.input-container input{
+    padding: 10px;
+    width: 450px;
+}
+
+.resultado-container{
+    margin: 20px;
+}
+
+.resultado-container p{
+    font-weight: bold;
+    font-size: 20px;
+}
